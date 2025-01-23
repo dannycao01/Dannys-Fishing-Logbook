@@ -1,4 +1,4 @@
-# 🎣 The Fisherman's Logbook
+# 🎣 FISH BYTES
 The Fisherman's Logbook is a project where I took my passion for fishing and turned it into a full-stack application. I wanted an easy way to track not just the fish I catch, but all the best moments from my time on the water with friends. Whether it’s reeling in a big one or just hanging out, this app lets me log everything that makes each fishing trip awesome
 
 With this app, I can easily:
