@@ -1,13 +1,13 @@
 # 🎣 YOOOO THIS IS FISH BYTES
 This project is where I took my passion for fishing and turned it into a full-stack application. I wanted an easy way to track not just the fish I catch, but all the best moments from my time on the water with friends. Whether it’s reeling in a big one or just hanging out, this app lets me log everything that makes each fishing trip awesome
 
-With this app, I can easily:
+Some cool features include:
 
 - 🎣 Log the species of fish we catch
 - 📅 Record the date of each trip
-- 📍 Track the locations of our favorite fishing spots
+- 📍 Track the locations of favorite fishing spots
 - 🪝 Note the bait that worked (or didn’t)
-- 🖼️ Upload pictures of our best catches
+- 🖼️ Upload pictures of fish
 
 #
 
@@ -23,6 +23,6 @@ With this app, I can easily:
 
 <img src="https://github.com/dannycao1997/Dannys-Fishing-Logbook/blob/52a9ca12538384f92854c6fccc3ebbd346a41e31/Danny%20Cao's%20Video%20-%20Oct%203%2C%202024.gif" />
 
-### 🌐 Live Demo https://fishermandan.tech/
+### 🌐 Demo currently offline : https://fishermandan.tech/
 
 
